@@ -1,0 +1,5 @@
+appName: hello-app
+imageName: gcr.io/google-samples/hello-app:2.0
+replicas: 1
+serviceName: example-service-lb
+sourcePort: 8080
